@@ -75,6 +75,9 @@ APERÇU DES FICHIERS
    B. snake_by_mihimihi.ico  
       Description : icône du jeu SNAKE
 
+## IMPORTANT !!! :
+### - le fichier fltk.py doit être copié dans le dossier snake après décompression
+
 -------------
 LANCER LE JEU
 -------------
