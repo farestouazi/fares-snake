@@ -76,7 +76,7 @@ FILE OVERVIEW
       Description: icon of the SNAKE game
 
 ## IMPORTANT !!! :
-### - fltk.py file must be copied to the rolit folder after decompression
+### - fltk.py file must be copied to the snake folder after decompression
 
 -------------
 RUNNING THE GAME
