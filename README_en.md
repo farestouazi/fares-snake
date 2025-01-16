@@ -67,7 +67,7 @@ FILE OVERVIEW
    C. LICENSE
       Description: project license
 
-2. List of files compressed in rolit.zip:
+2. List of files compressed in snake.zip:
 
    A. snake.py
       Description: main script of the game
