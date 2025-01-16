@@ -75,6 +75,9 @@ FILE OVERVIEW
    B. snake_by_mihimihi.ico
       Description: icon of the SNAKE game
 
+## IMPORTANT !!! :
+### - fltk.py file must be copied to the snake folder after decompression
+
 -------------
 RUNNING THE GAME
 -------------
